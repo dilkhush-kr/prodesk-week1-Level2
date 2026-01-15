@@ -26,7 +26,7 @@ The goal of this project is to build a **professional, responsive landing page**
 - JavaScript (Vanilla JS)
 
 ## Live Demo
-prodesk-week1-level2.vercel.app
+ https://prodesk-week1-level2.vercel.app
 
 
 ##  Screenshot
